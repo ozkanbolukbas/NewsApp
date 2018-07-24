@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="by_author">By </string>
+    <string name="internet_connection_problem">Please connect your device to internet!</string>
+    <string name="news_found_problem">There is no news. Try other news categories by using settings!</string>
+    <string name="setting_menu_item">Settings</string>
+    <string name="news_setting_title">News Settings</string>
+
+    <string name="sections_label">Sections</string>
+    <string name="section_key" translatable="false">section_name</string>
+    <string name="section_default" translatable="false">world</string>
+    <string translatable="false" name="world">world</string>
+    <string translatable="false" name="science">science</string>
+    <string translatable="false" name="culture">culture</string>
+    <string translatable="false" name="business">business</string>
+    <string translatable="false" name="fashion">fashion</string>
+    <string translatable="false" name="sport">sport</string>
+    <string translatable="false" name="football">football</string>
+    <string translatable="false" name="technology">technology</string>
+    <string translatable="false" name="travel">travel</string>
+    <string translatable="false" name="money">money</string>
+    <string name="news_settings">News Settings</string>
+
+    <string name="order_by_label">Order By</string>
+    <string name="order_by_key" translatable="false">order_by</string>
+    <string name="order_by_default" translatable="false">newest</string>
+    <string name="newest" translatable="false">newest</string>
+    <string name="oldest" translatable="false">oldest</string>
+    <string name="relevance" translatable="false">relevance</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_section_labels">
+        <item>World</item>
+        <item>Science</item>
+        <item>Culture</item>
+        <item>Business</item>
+        <item>Fashion</item>
+        <item>Sport</item>
+        <item>Football</item>
+        <item>Technology</item>
+        <item>Travel</item>
+        <item>Money</item>
+    </string-array>
+    <string-array name="news_section_values">
+        <item>@string/world</item>
+        <item>@string/science</item>
+        <item>@string/culture</item>
+        <item>@string/business</item>
+        <item>@string/fashion</item>
+        <item>@string/sport</item>
+        <item>@string/football</item>
+        <item>@string/technology</item>
+        <item>@string/travel</item>
+        <item>@string/money</item>
+    </string-array>
+
+    <string-array name="order_by_lables">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Relevance</item>
+    </string-array>
+    <string-array name="order_by_values">
+        <item>@string/newest</item>
+        <item>@string/oldest</item>
+        <item>@string/relevance</item>
+    </string-array>
+</resources>
